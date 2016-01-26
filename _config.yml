@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.8318625
-  lightness: 0.6229312
+  saturation: 0.8261649
   brandStrength: 0
+  lightness: 0.5412186
   brandColors:
     - '#030403'
     - '#B3AEAA'
     - '#77B5E2'
     - '#424239'
     - '#897F4A'
-  rhythmicContrast: 0.5006533
+  rhythmicContrast: 1
 typography_spectrum: 0.7187323
+layout_spectrum: 0.06630825
 name: Weather Or Not
