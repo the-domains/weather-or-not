@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.8318625
+  lightness: 0.6229312
+  brandStrength: 0
+  brandColors:
+    - '#030403'
+    - '#B3AEAA'
+    - '#77B5E2'
+    - '#424239'
+    - '#897F4A'
+  rhythmicContrast: 0.5006533
+typography_spectrum: 0.7187323
+name: Weather Or Not
